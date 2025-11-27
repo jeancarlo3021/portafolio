@@ -30,7 +30,7 @@ document.getElementById("lang-btn").addEventListener("click", () => {
 console.log(loadleng(currentleng));
 
 
-
+//a
 //save lenguage in local storage
 currentleng = localStorage.getItem("idioma") || "es";
 
