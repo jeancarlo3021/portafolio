@@ -1,0 +1,19 @@
+{
+    "maintitle":"MyPortfolio",
+    "start":"Start",
+    "proyects" : "Proyects",
+    "contact" : "Contact",
+    "title": "Hi, I'm Juan Pérez",
+    "description": "Full Stack Web Developer",
+    "proyectbutton": "View projects",
+    "info": "Information about me",
+    "info-description": "I am passionate about continuous learning and programming, with experience in technologies such as MVC, JavaScript, HTML, CSS, Java (using NetBeans and Android Studio), SQL Server, C#, React, Node.js, and Next.js. I have developed comprehensive projects using JavaScript, React Native, and Java, applying them to solutions for mobile, desktop, and web applications. I constantly stay up-to-date with the latest technological trends, always aiming to improve my technical skills and contribute innovation in every project.",
+    "proyect-title": "Featured projects",
+    "pt1": "Interactive Dashboard",
+    "pd1":"A dashboard with dynamic charts and REST API.",
+    "pt2": "Modern e-commerce",
+    "pd2": "Online store with payments and persistent shopping cart",
+    "pt3": "Animated Landing Page",
+    "pd3": "Motion design + GSAP for smooth animations.",
+    "footer":"© 2025 Jean Carlo Ocampo Profetional  Professional Portfolio"
+}
